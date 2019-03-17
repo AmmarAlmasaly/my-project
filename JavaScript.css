@@ -1,0 +1,13 @@
+.container div {
+  color: #fff;
+  background: #f7600e;
+  box-shadow: 2px 2px 6px orange;
+  padding: 5px;
+  margin: 15px auto;
+  text-align: center;
+  display: inline-block;
+}
+
+img {
+  height: 20%;
+}
